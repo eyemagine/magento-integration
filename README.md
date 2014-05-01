@@ -3,12 +3,18 @@ magento-integration
 
 Include Magento blocks and CMS blocks in any PHP application.
 
+Example
+-------------
+
+Joomla and Magento
+
+![Joomla and Magento](http://i.imgur.com/MNpADpW.png)
+
 Installation
 -------------
 
-Include <code>magento-integration.php</code> in your application.
-
-Initialize the integration by passing the path to Magento bootstrap file.
+* Include <code>magento-integration.php</code> in your application.
+* Initialize the integration and pass the path to Magento bootstrap file.
 
 Example:
 
